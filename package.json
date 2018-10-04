@@ -1,5 +1,6 @@
 {
   "name": "inquisitor-test",
+  "description": "Testing npm inquirer module",
   "version": "1.0.0",
   "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
   "bugs": {
@@ -14,6 +15,7 @@
   "keywords": [],
   "license": "MPL-2.0",
   "main": "index.js",
+  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pdehaan/inquirer-test.git"
